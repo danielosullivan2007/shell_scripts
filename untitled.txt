@@ -1,0 +1,1 @@
+echo "alias test='ls -a' | tee -a ~.bashrc file2
