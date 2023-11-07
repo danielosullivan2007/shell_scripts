@@ -33,6 +33,9 @@ fi
 
 alias_scripts find_between archive new_git_repo
 
+##########################################
+#RUN THE STATIC ALIASES
+##########################################
 
 ## Colorize the ls output ##
 alias_static "ls" 'ls --color=auto'
