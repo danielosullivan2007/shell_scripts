@@ -31,7 +31,7 @@ if ! grep -q "alias $escaped_name" ~/.bashrc ~/.bash_profile; then
 fi
 }
 
-alias_scripts find_between archive new_git_repo
+alias_scripts find_between archive new_git_repo fastclone
 
 ##########################################
 #RUN THE STATIC ALIASES
